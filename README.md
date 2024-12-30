@@ -1,2 +1,2 @@
-# Airbnb_Listings-EDA-Project
-New York Airbnb Listings 2024 - EDA Project Using Python
+# NewYork Airbnb Listings(2024) - EDA Project Using Python
+
